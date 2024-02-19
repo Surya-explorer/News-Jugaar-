@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/News-Jugaar-/static/css/main.dc4d6ff2.css",
+    "main.js": "/News-Jugaar-/static/js/main.3abda8f8.js",
+    "static/js/787.6643f1c0.chunk.js": "/News-Jugaar-/static/js/787.6643f1c0.chunk.js",
+    "static/media/Spinner.gif": "/News-Jugaar-/static/media/Spinner.65aaab0dbc3f2a98253c.gif",
+    "index.html": "/News-Jugaar-/index.html",
+    "main.dc4d6ff2.css.map": "/News-Jugaar-/static/css/main.dc4d6ff2.css.map",
+    "main.3abda8f8.js.map": "/News-Jugaar-/static/js/main.3abda8f8.js.map",
+    "787.6643f1c0.chunk.js.map": "/News-Jugaar-/static/js/787.6643f1c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.3abda8f8.js"
+  ]
+}
